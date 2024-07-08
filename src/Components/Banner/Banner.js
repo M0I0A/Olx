@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './Banner.css';
-import Arrow from '../../Assets/Arrow'
+import Arrow from '../../assets/Arrow'
 function Banner() {
   return (
     <div className="bannerParentDiv">
@@ -23,7 +23,7 @@ function Banner() {
         </div>
         <div className="banner">
           <img
-            src="https://raw.githubusercontent.com/Packapeer/React_tutorial_olx_clone/main/assets/images/banner%20copy.png"
+            src="../../../Images/banner copy.png"
             alt=""
           />
         </div>
