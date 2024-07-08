@@ -23,7 +23,7 @@ function Banner() {
         </div>
         <div className="banner">
           <img
-            src="../../../Images/banner copy.png"
+            src="https://raw.githubusercontent.com/Packapeer/React_tutorial_olx_clone/main/assets/images/banner%20copy.png"
             alt=""
           />
         </div>

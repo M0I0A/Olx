@@ -20,7 +20,7 @@ function Posts() {
               <Heart></Heart>
             </div>
             <div className="image">
-              <img src="../../../Images/R15V3.jpg" alt="" />
+              <img src="https://apollo.olx.in/v1/files/07te80cdn5lv2-IN/image;s=780x0;q=60" alt="" />
             </div>
             <div className="content">
               <p className="rate">&#x20B9; 250000</p>

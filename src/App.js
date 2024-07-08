@@ -1,11 +1,17 @@
-import React from 'react'
-import Home from './Pages/Home'
+import React from 'react';
+import './App.css';
+
+/**
+ * ?  =====Import Components=====
+ */
+import Home from './Pages/Home';
+
 function App() {
   return (
     <div>
-      <Home/>
+      <Home />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
